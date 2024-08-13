@@ -1,0 +1,235 @@
+*{
+    margin: 0px;
+}
+nav{
+    background-color: rgb(91, 112, 78);
+    justify-content: space-between;
+align-items: center; margin-right: 0px;
+display: flex;
+}
+.navitems{
+    display: inline;
+    list-style: none;
+    margin: 0px 20px;
+    margin: 0px 40px;
+    color: rgb(213, 213, 213);
+    
+}
+.logo{
+    width: 150px;
+    margin: 0px 40px 0px 150px;
+}
+.topbg{
+    background-image: url('./images/bg.jpeg');
+    height: 600px;
+    justify-content: center;
+    display: flex;
+    background-size: cover;
+    border: none;
+
+  -webkit-mask:
+    conic-gradient(from -45deg at bottom,#0000,#000 1deg 89deg,#0000 90deg) 50%/80px 100%;
+}
+.imgsize{
+width: 150px;
+height: 130px;
+margin-top:260px;
+}
+.wel{
+        font-family: "Whisper", cursive;
+        font-weight: 400;
+        font-style: normal;
+  
+        text-align: center;
+        margin-top: 50px;
+        font-size: 100px;
+        color: rgb(169, 168, 168);
+        
+      }
+      .p{
+        font-size: 20px;
+        text-align: center;
+        line-height: 1.8;
+        margin-left: 70px;
+        margin-right: 70px;
+        color: rgb(169, 168, 168);
+      }
+      .menu{
+        justify-content: center;
+        display: flex;
+        margin: 200px 70px 10px 10px;
+      }
+      #one{
+        background-color: rgb(183, 105, 71);
+        
+        margin-left: 25px;
+        height: 450px;
+        width: 400px;
+        position: relative;
+
+      }
+      #two{
+        background-color: rgb(98, 63, 48);
+       
+        margin-left: 25px;
+        height: 450px;
+        width: 400px;
+        position: relative;
+      }
+      #three{
+        background-color: rgb(91, 112, 78);
+        
+        margin-left: 25px;
+        height: 450px;
+        width: 400px;
+        position: relative;
+      }
+    .stack1{
+            position: absolute;
+            color: #000;
+            height: 300px;
+            width: 300px;
+        margin-top: -145px;
+        margin-left: 50px;
+        
+          
+           
+        }
+        .stack2{
+        
+                position: absolute;
+                color: #000;
+                height: 300px;
+                width: 300px;
+                margin-top: -145px;
+                margin-left: 50px;
+            
+                
+        }
+        .stack3{
+            
+            position: absolute;
+            color: #000;
+            height: 300px;
+            width: 300px;
+            margin-top: -145px;
+            margin-left: 50px;
+        }
+        #img1{
+            height: 300px;
+            width: 300px;
+            border-radius: 50%;
+        }
+      .social{
+        text-align: center;
+      margin-top: 85px;
+      color: rgb(91, 112, 78);
+      height: 50%;
+      font-size: 30px;
+    }
+    .info{
+      background-color:rgb(98, 63, 48) ;
+      display: flex;
+      margin-top: 250px;
+      margin-bottom: 250px;
+      height: 550px;
+    }
+    .infoimg{
+      width: 120%;
+    }
+    .text1{
+    text-align: center;
+    margin-top: 18%;
+    font-size: 150%;
+      
+    }
+    .text2{
+      text-align: center;
+      margin-top: 15%;
+      margin-left: 10px;
+    font-size: 50;
+    font-weight: 600;
+    }
+    .maindiv{
+      display: flex;
+      background-color: rgb(158, 103, 36);
+      margin-bottom: 0px;
+      height: 500px;
+      margin-top: 80px;
+    }
+    .img3{
+      width: 75vh;
+      height: 100%;
+      margin-bottom: 0px;
+    }
+    .img1{
+      height: 100%;
+      width: 80vh;
+    }
+    .headdiv{
+      /* margin-top: 50%; */
+      margin:  100px;
+      margin-top: 150px;
+    }
+    .p11{
+      margin: 0px -20px;
+    }
+    .icondiv{
+      height: 140px;
+      display: flex;
+      font-size: 60px;
+      margin-top: 50px;
+      margin-bottom: 100px;
+      
+      /* align-items: center; */
+    }
+    /* .div15{
+      display: flex;
+      margin-left: 700px;
+      margin-top: 60px; 
+    } */
+    .facebook{
+      margin-left: 570px;
+      margin-top: 30px;
+      
+    }
+   .insta{
+    margin-left: 270px;
+    margin-top:30px ;
+    
+   } 
+  .folow1{
+    font-size: 10px;
+  }
+  .folow2{
+    font-size: 10px;
+  }
+  footer{
+    background-color: brown;
+    /* display: flex; */
+    /* text-align: center;
+    align-items: center; */
+  }
+  .end{
+    display: flex;
+    width: 100%;
+    justify-content: space-around;
+  }
+  .end1{
+    display: flex;
+    align-items: center;
+    text-align: center;
+  }
+
+    /* .threemain{
+display: flex;
+background-color: brown;
+
+      }
+      .threeimg{
+        width: 80vh;
+      }
+      .threeimg1{
+        width: 200%;
+        heih
+      } */
